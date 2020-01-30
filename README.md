@@ -67,6 +67,14 @@ NewsApi.getSources(onSourcesListener = object :
 | getEverything | Search through millions of articles from over 30,000 large and small news sources and blogs. This includes breaking news as well as lesser articles. This endpoint suits article discovery and analysis, but can be used to retrieve articles for display, too. |
 
 For more details on these method follow [this](https://newsapi.org/docs/endpoints)
+
+## Makes use of
+* retrofit2 - 2.7.0
+* retrofit2:converter-gson - 2.7.0
+* ohttp logging-interceptor - 4.3.1
+* adapter-rxjava2 - 2.7.0
+* rxandroid:2.1.1
+
 ## Author
 Maintained by [Mukesh Solanki](https://www.github.com/mukeshsolanki)
 
