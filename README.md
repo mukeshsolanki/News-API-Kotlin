@@ -3,7 +3,7 @@
   <a href="https://www.codacy.com/manual/mukeshsolanki/News-API-Android?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mukeshsolanki/News-API-Android&amp;utm_campaign=Badge_Grade"><img src="https://api.codacy.com/project/badge/Grade/7c635f39c24441d18c61d7b44b150e4e"/></a>
   <a href="https://jitpack.io/#mukeshsolanki/News-API-Android"> <img src="https://jitpack.io/v/mukeshsolanki/News-API-Android/month.svg" /></a>
   <a href="https://jitpack.io/#mukeshsolanki/News-API-Android"> <img src="https://jitpack.io/v/mukeshsolanki/News-API-Android.svg" /></a>
-  <a href="https://circleci.com/gh/mukeshsolanki/News-API-Android/tree/master"> <img src="https://circleci.com/gh/mukeshsolanki/News-API-Android/tree/master.svg?style=shield" /></a>
+  <a href="https://github.com/mukeshsolanki/News-API-Android/actions"> <img src="https://github.com/mukeshsolanki/News-API-Android/workflows/Build/badge.svg" /></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg"/></a>
   <br /><br />
 News-API-Android is an android/java/kotlin library for accessing News API. https://newsapi.org/
